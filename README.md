@@ -20,7 +20,8 @@
 - 🔍 Detail-oriented SQA Engineer with 1 year experience  
 - 🧪 Strong in **Manual Testing & API Testing**  
 - 🐞 Passionate about finding bugs and improving quality  
-- 🚀 Focused on real-world testing, not just theory  
+- 🚀 Focused on real-world testing, not just theory
+-  Actively leveling up, building automation skills with Playwright   
 
 ---
 ## 🛠 Skills & Tools
@@ -30,7 +31,6 @@
 - Bug Reporting (Jira-style)
 - JSON Analysis & Validation
 - SDLC / STLC / Agile (Scrum)
-## 🛠 Tools & Technologies
 
 <p>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
@@ -42,18 +42,103 @@
 </p>
 
 ---
+## 🚀 Featured Project
 
-## 🚀 Featured Projects
+## 📂 Portfolio Structure:
+QA-Portfolio/
+┣ SaaS-Project/
+┣ Login-Form-Testing/
+┣ API-Testing-Suite/
+┣ Test-Cases/
+┣ Bug-Reports/
+┗ README.md
 
-🔹 **Login Form Testing**  
-👉 https://github.com/your-username/login-form-testing  
+### 🔹 Cloud based SaaS Project
+**Overview:**  
+Testing of a real-world **vehicle reservation system API** including reservations, vehicles, customers, and insurance modules.
 
-🔹 **API Testing Suite (Postman)**  
-👉 https://github.com/your-username/api-testing-suite  
+**API Endpoint:**
+
+
+**Key Testing Areas:**
+- Reservation lifecycle validation
+- Vehicle & damage data verification
+- Customer & owner mapping
+- Nested JSON validation
+- Pagination testing
+
+**Tools:** Postman | Manual API Testing | JSON Validator  
+
+👉 [View Project](https://github.com/your-username/auty-cloud-qa)
 
 ---
 
+### 🔹 Login Form Testing Project
+**Overview:**  
+Testing authentication system including validations and security checks.
 
+**Test Coverage:**
+- Valid / Invalid login
+- Empty fields validation
+- SQL Injection checks
+- Password masking
+- Session handling
+
+👉 [View Project](https://github.com/your-username/login-form-testing)
+
+---
+
+### 🔹 API Testing Practice (Postman Suite)
+**Overview:**  
+Practice project covering multiple API endpoints.
+
+**Covered Areas:**
+- GET, POST, PUT, DELETE
+- Status code validation
+- Response schema validation
+- Negative testing
+
+👉 [View Project](https://github.com/your-username/api-testing-suite)
+
+---
+
+## 📊 Skills Demonstrated
+- Manual Testing
+- API Testing
+- Test Case Writing
+- Bug Reporting
+- Backend Data Validation
+- Agile Methodology
+
+---
+
+## 🧾 Sample Test Case
+
+| Test Case ID | Scenario         | Expected Result                | Status |
+|--------------|----------------|------------------------------|--------|
+| TC_01        | Valid Login     | User logs in successfully     | Pass   |
+| TC_02        | Invalid Password| Error message displayed       | Pass   |
+
+---
+
+## 🐞 Sample Bug Report
+
+**Title:** Customer field returns null in API  
+
+**Severity:** Medium  
+
+**Steps to Reproduce:**
+1. Call `GET /api/timeline`
+2. Check `customer` object  
+
+**Expected:** Customer data should be present  
+**Actual:** Customer is null in some responses  
+
+---
+
+## 📂 Portfolio Structure
+
+---
 ## 🐞 QA Mindset
 
 > “Quality is not an act, it is a habit.”  

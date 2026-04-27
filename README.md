@@ -1,16 +1,73 @@
-## Hi there 👋
 
-<!--
-**Sabah121/Sabah121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- 🔥 HEADER ANIMATION -->
+<h1 align="center">Hi 👋, I'm Saba</h1>
+<h3 align="center">🧪 Software Quality Assurance (SQA) Engineer</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=6A5ACD&center=true&vCenter=true&lines=Manual+Testing+Expert;API+Testing+(Postman);Bug+Hunter+%F0%9F%90%9B;Always+Learning+QA" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<!-- 🖼 BANNER -->
+<p align="center">
+<img width="950" height="259" alt="sqa-software-quality-assurance-concept-260nw-2264736025" src="https://github.com/user-attachments/assets/0c600c44-47c5-451b-99af-fc24fd207ef8" />
+</p>
+
+---
+
+## 👋 About Me
+- 🔍 Detail-oriented SQA Engineer with 1 year experience  
+- 🧪 Strong in **Manual Testing & API Testing**  
+- 🐞 Passionate about finding bugs and improving quality  
+- 🚀 Focused on real-world testing, not just theory  
+
+---
+
+## 🛠 Tools & Technologies
+
+<p>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+<img src="https://img.shields.io/badge/Manual%20Testing-6A5ACD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/API%20Testing-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json"/>
+<img src="https://img.shields.io/badge/Agile-Scrum-blue?style=for-the-badge"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+🔹 **Login Form Testing**  
+👉 https://github.com/your-username/login-form-testing  
+
+🔹 **API Testing Suite (Postman)**  
+👉 https://github.com/your-username/api-testing-suite  
+
+---
+
+## 📈 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🐞 QA Mindset
+
+> “Quality is not an act, it is a habit.”  
+> I focus on **breaking systems to make them stronger** 💪  
+
+---
+
+## 📫 Contact Me
+
+- 📧 your-email@gmail.com  
+- 💼 https://linkedin.com/in/your-profile  
+- 💻 https://github.com/your-username  
+
+---
+
+⭐ *This profile showcases real-world QA testing skills, API validation, and bug tracking experience.*

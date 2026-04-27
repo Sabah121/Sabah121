@@ -57,9 +57,9 @@
 
 ## 📫 Contact Me
 
-- 📧 your-email@gmail.com  
-- 💼 https://linkedin.com/in/your-profile  
-- 💻 https://github.com/your-username  
+- 📧 sabaamjad221@gmail.com  
+- 💼 https://www.linkedin.com/in/saba-amjad-sqa/  
+- 💻 https://github.com/sabah121  
 
 ---
 

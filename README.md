@@ -23,7 +23,13 @@
 - 🚀 Focused on real-world testing, not just theory  
 
 ---
-
+## 🛠 Skills & Tools
+- Manual Testing (Web & Mobile)
+- API Testing (Postman)
+- Test Case Design & Execution
+- Bug Reporting (Jira-style)
+- JSON Analysis & Validation
+- SDLC / STLC / Agile (Scrum)
 ## 🛠 Tools & Technologies
 
 <p>
